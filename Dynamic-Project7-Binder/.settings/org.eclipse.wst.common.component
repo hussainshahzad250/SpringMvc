@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Dynamic-Project7-Binder">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="java-output-path" value="/Dynamic-Project7-Binder/build/classes"/>
+        <property name="context-root" value="Dynamic-Project7-Binder"/>
+    </wb-module>
+</project-modules>
